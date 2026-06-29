@@ -173,6 +173,11 @@ preact-iso@^2.9.1:
   resolved "https://registry.yarnpkg.com/preact-iso/-/preact-iso-2.12.0.tgz#2048de1b37a19369b94b2ac39d4b6cfa694ce56c"
   integrity sha512-k0Y44UONBJ1zBXXCBhJRAa5O4ww8a5FHdLD6l21IxcnsTmDBto4n7KPQAH6xqegsKDMX4SuJ02qItiUlciIlZQ==
 
+preact-render-to-string@^6.5.x:
+  version "6.7.0"
+  resolved "https://registry.yarnpkg.com/preact-render-to-string/-/preact-render-to-string-6.7.0.tgz#fe10abba7461a439b1846d4ce3c51b87ecf48fe2"
+  integrity sha512-Z4WR8fmLMRpdYqJ9i7vrlXSsSrxVJydwrkEXHapexfARbWfGb7vGcnvNQnIzN0cXciMVOlz/XLoiMCi9gUsy9Q==
+
 preact@^10.10.x:
   version "10.29.3"
   resolved "https://registry.yarnpkg.com/preact/-/preact-10.29.3.tgz#36f96b7a8edc2fccea76daa5e7545597dc15ab28"
@@ -209,3 +214,8 @@ ts-morph@^25.0.1:
   dependencies:
     "@ts-morph/common" "~0.26.0"
     code-block-writer "^13.0.3"
+
+typescript@^5.x:
+  version "5.9.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.3.tgz#5b4f59e15310ab17a216f5d6cf53ee476ede670f"
+  integrity sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==
